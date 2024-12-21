@@ -270,7 +270,7 @@ void command6(char board[25][25]){
 }
 int main(void) {
     char board[25][25];
-    printf("EGRE245 Proj. #6 - Ziona Tucker 2022 \n");
+    printf("EGRE245 Proj. #6 - Ziona Tucker\n");
     printf(" 0 = Pen Up 1 = Pen Down 3 = Turn Right 4 = Turn Left 5 = Move Foward x Spaces 6 = Print Board\n");
     
     for (int k=0;k<25;k++){//storing space array
